@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "creozen-website-forms",
+  "private_key_id": "d79194a54ef81453b6d4c99e793032707e0b9d9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDElcl2qS7xZzjR\nAbRCRDvVn2m2p4dJF/wrXf2M3FYxewVYjI2X6N31RkJNegWyuzTnO5b6hl+tN2cv\nbMRwGQFd2q8zRRPfu8i+w/fxAmab4XyY4YprwzpXnSqyHMsYmXz603oytYeB0cHd\n3T/o8qYfKPRywiOJAARdGAyY/uBbd3KE8vpIk95ahYDdD/JR8OrPNhdRiW1WYiAE\nu6oOfac6h4lK/qHoxWvLMdNv0cPYJmjGbYz1etMxMdpsO/b12ucm0kVYR+qSJ0dE\nBHShUxvOzEhwmQyxONnC1iTxIQLhe59cmHBsXXpdp5ZIdueP/7+Dvl3rmziYA1cy\nicw3fYF1AgMBAAECggEALPoRPSkhoKErdmRTq+qlHu/JVb04HmDStNBdE6aQwOLi\n2vrTZXtllvmzbzr5BUbAKJxxY1Gtn7mijc7ulbAe6CyBs7L9BE4YNI8tEdLpC4aY\nRXkqvJOO7F881sHwNKlfVxrd5S6zuV+2oY5+kgs8NzpdTUk+LJjYprz7GuELj1la\nqos0M2NeUW3yP5jJGDDoNJEcUEMT01fOh11NrdGIc+Jfoqh/B4w6lQBiDHqGasEg\neDe0I3MBLmWvFA0de/OOr6lL4ASX9W+mLHJbR6yHvE/8er1MP39/Mdecsaott5S2\nclhlsKsLnnR3MGFPhF7ewL7D6uBCBIXWEIY1w6+NoQKBgQDxGr1OjnGpVuD0Owgc\n/PBlZg8dQFFaV8HD2xYeJ94y8i2vDloAQOacqEGzsRwbVNpGeaMiFivNH7Vqxm8S\n/RnL8RN9jpWQfkOGZ28SEPhapwP/Dz4jqEJDm9RKMd0W78ew68+wPKFo2GJT8413\nsCSHuiKVyYOPIDjk1PmJQkwSIQKBgQDQuvAzM5HmmbUf2JDtjhhGqJqNPHrrKPCq\ngjvgGGecldlpDtrRkip3g0hf5DFMynMCl+js7MS6fKPNl9+0X+1RvPCT/a02lhRg\nQWnDa3DybD8V6dv3h4XT1hvv/XGg7+YIQ0c4Tc4Z9Gprtywm/6TwqJfHk2z5cDZ5\n2r5vdfzs1QKBgCP1JvKGT/E/YcFK5ITePEQDGpH0O63LlLxO+ld4/qx+bc3DyCxt\ngXcvqMzRxy1UVFFaZrf4soOfDQFlor8kPCqsQ4ngL/IiwpNS7b+2BDQQ4ImzjkLn\nHyrSHLEMCrsW+6MpKApSoIfwbYmzsw98l5YebnYEXbiEx7dpA+YymwHBAoGBALoi\n6o8OXv7AdZf3nY5ql9VzB5gJpifNM4kqaFC4ErW9n8qjN5mJ+hrn1QPGT/yF0Tgv\n1cRqhCk1ezGdTR3iKZUpo3Sl1PCHt5X632Eoj+lvhHZ7PPCpRzuYhQNoBQuaw4z8\nyic4oyHcJ4b1KweAFEuUXP3Zx2VNnxbdbdOh6TIdAoGBAKrJkV9+pA7fcPhKw421\ngjq/t0O3wHDYS4ipZ7dEv6frP8HBQWDrxwC8MPBbu4eQxWy5qJj/qjAvirAQjWsV\nz+hx6PnIOVQ8kLPiFsOoBi+eff9oG8k/tVd0piKUO1KpC//v6ZythWRXdyxaJ8pP\n3JmKW/DpfSEoFWj1YdRSV4GP\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-form-writer@creozen-website-forms.iam.gserviceaccount.com",
+  "client_id": "108702153515902603338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-form-writer%40creozen-website-forms.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
